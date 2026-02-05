@@ -37,9 +37,9 @@ All progress and investigations will be documented here.
 
 
 
-## Build Progress
+**Build Progress**
 
-### Day 1 – Lab Setup Started
+ **Day 1 – Lab Setup Started**
 
 * [ ] Install VirtualBox
 * [ ] Create Windows VM
