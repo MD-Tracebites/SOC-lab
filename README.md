@@ -1,32 +1,46 @@
 **SOC-Home lab**
 
  **Objective**
+# SOC Home Lab – Journey to SOC Analyst Tier 1
+
+I am a recent Information Security & Forensics graduate building hands-on blue team skills through a structured SOC home lab.  
+This repository documents my daily progress as I prepare for a SOC Analyst Tier 1 role and Blue Team Level 1 certification.
+
+
+
+ **Objective**
+
+Over the next 90 days I am:
+
+- Building a functional SOC lab
+- Generating and analyzing logs
+- Practicing investigations
+- Documenting findings
+- Developing real analyst workflow habits
+
+This repository serves as proof of practical skills, consistency, and growth.
+
+
+
+ **Lab Environment**
+
+**Virtualization**
+- VirtualBox
+
+**Machines**
+- Kali Linux (attacker/testing)
+- Windows 10 (target system)
+
+This environment will simulate real-world monitoring and detection scenarios.
+
+
+
+ **Project Structure**
+
 
 This repository documents the setup of my personal Security Operations Center (SOC) lab as I train toward a Tier-1 SOC Analyst role and prepare for Blue Team Level 1 (BTL1).
 
 The goal is to simulate real-world monitoring, logging, and incident investigation workflows.
-
-
-
- **Why I’m Building This**
-
-I’m currently studying full-time and building hands-on blue team skills.
-This lab will be used to:
-
-* Generate and analyze logs
-* Practice alert triage
-* Investigate suspicious activity
-* Write incident reports
-* Develop detection thinking
-
-All progress and investigations will be documented here.
-
- **Lab Plan**
-
-**Environment**
-
-* Windows VM (log generation & attack simulation)
-* Linux VM (monitoring/SIEM)
 
 **Tools**
 
@@ -36,32 +50,7 @@ All progress and investigations will be documented here.
 * Wireshark
 
 
-
-**Build Progress**
-
- **Day 1 – Lab Setup Started**
-
-* [ ] Install Virtualbox
-* [ ] Create Windows VM
-* [ ] Create Linux VM
-* [ ] Install Sysmon
-* [ ] Generate logs
-
-This section will be updated daily as the lab grows.
-
-
-
- **Goal**
-
-By the end of this project, I will have:
-
-* A working SOC lab
-* Multiple investigation reports
-* Detection practice
-* Documented learning
-
-
-
+All progress and investigations will be documented here.
 
 
 
@@ -78,18 +67,6 @@ Next:
 - Configure networking  
 - Install Sysmon  
 - Begin log generation  
-
-
-
- **Skills Being Built**
-
-- Log analysis
-- SIEM fundamentals
-- Threat detection
-- Incident investigation
-- Windows event analysis
-- Blue team workflow
-
 
 
  Career Direction
