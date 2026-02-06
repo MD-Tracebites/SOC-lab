@@ -30,7 +30,7 @@ All progress and investigations will be documented here.
 
 **Tools**
 
-* VMware
+* Virtualbox
 * Sysmon
 * Wazuh or ELK (planned)
 * Wireshark
@@ -41,7 +41,7 @@ All progress and investigations will be documented here.
 
  **Day 1 – Lab Setup Started**
 
-* [ ] Install Vmware
+* [ ] Install Virtualbox
 * [ ] Create Windows VM
 * [ ] Create Linux VM
 * [ ] Install Sysmon
