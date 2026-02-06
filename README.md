@@ -62,4 +62,41 @@ By the end of this project, I will have:
 
 
 
-**Status:** 🟡 In Progress (February 2026)
+
+
+
+**Progress Log**
+
+Day 1 – Lab Setup
+- Installed VirtualBox  
+- Created Kali Linux VM  
+- Created Windows 10 VM  
+- Verified both machines run  
+- Captured screenshots  
+
+Next:
+- Configure networking  
+- Install Sysmon  
+- Begin log generation  
+
+
+
+ **Skills Being Built**
+
+- Log analysis
+- SIEM fundamentals
+- Threat detection
+- Incident investigation
+- Windows event analysis
+- Blue team workflow
+
+
+
+ Career Direction
+
+Target Role: **SOC Analyst Tier 1**  
+Focus: Blue Team / Security Operations  
+Location: Remote / Global opportunities  
+
+This repository will grow daily as I build real investigative experience.
+
